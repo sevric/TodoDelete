@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragD_title_text_size">36sp</dimen>
+    <dimen name="fragD_ed_text_size">18sp</dimen>
+    <dimen name="fragD_views_margins">16dp</dimen>
+</resources>

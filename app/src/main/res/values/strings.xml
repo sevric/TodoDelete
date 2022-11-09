@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">task14android</string>
+    <string name="btn_add_element">+</string>
+    <string name="default_recycler_item_text">Default item text</string>
+    <string name="img_btn_description">img_btn_settings</string>
+
+    <!--fragment_dialog strings-->
+    <string name="fragment_dialog_title">Add an item</string>
+    <string name="fragD_et_hint">What is to be done?</string>
+    <string name="btnCancel_text">Cancel</string>
+    <string name="btnSave_text">Save</string>
 </resources>
